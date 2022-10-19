@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="greenM">#16c48A</color>
+    <color name="greenLight">#85C1AD</color>
+    <color name="greenLightE">#D5FDEE</color>
+    <color name="yellowM">#ffd914</color>
+    <color name="yellowDark">#ffb000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue_green">#009688</color>
+    <color name="transparent">#00000000</color>
+    <color name="grey">#ECE9E9</color>
+
+
+</resources>

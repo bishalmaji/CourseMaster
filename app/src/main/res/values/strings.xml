@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Course Master</string>
+    <string name="title_activity_content_main">ContentMain</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Share</string>
+    <string name="title_notifications">Notification</string>
+    <string name="title_more">More</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_item_detail_host">ItemDetailHostActivity</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="action_settings">jdlfas</string>
+    <string name="title_activity_vid_detail_host">vidDetailHostActivity</string>
+    <string name="title_vid_list">video</string>
+    <string name="title_vid_detail">vid Detail</string>
+    <string name="title_activity_video_detail_host">VideoDetailHostActivity</string>
+    <string name="title_video_list">Videos</string>
+    <string name="title_video_detail">Video Detail</string>
+    <string name="detail">Detail</string>
+</resources>

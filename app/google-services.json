@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637267305958",
+    "project_id": "course-master-db",
+    "storage_bucket": "course-master-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637267305958:android:643c6e6abc1e7ac83c2227",
+        "android_client_info": {
+          "package_name": "com.bishal.coursemaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637267305958-17phf1qlb2r0v98umhhp84v9gj9a0ntr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwjXvt7J0BorF22BYdBub5vCu79MLRT0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637267305958-17phf1qlb2r0v98umhhp84v9gj9a0ntr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
