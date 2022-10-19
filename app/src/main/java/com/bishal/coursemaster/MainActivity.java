@@ -12,11 +12,7 @@ import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class MainActivity extends AppCompatActivity {
 
-    private String name;
-    private String refer;
-    private String phone;
-    private String total;
-    private boolean stat;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
